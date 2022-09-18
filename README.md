@@ -33,10 +33,13 @@
 <div> 
   
   <a href="https://instagram.com/stephaniemarcondess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href = "mailto:stephaniemarcondess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stephaniemarcondes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+   <a href="https://twitter.com/stezinhacullen" target="_blank"><img src="https://img.shields.io/twitter/follow/stezinhacullen?label=Follow%20me&style=social](https://img.shields.io/twitter/follow/stezinhacullen?label=Me%20siga%20no%20twitter%2C%20l%C3%A1%20eu%20falo%20tudo%20sobre%20o%20mundo%20tech%20%3AD&style=social)" target="_blank"></a>
+  
 </div>
 
 ![Snake animation](https://github.com/stephaniemarcondes/stephaniemarcondes/blob/output/github-contribution-grid-snake.svg)
