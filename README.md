@@ -2,7 +2,7 @@
 
 <div><img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/1171011_u8heGtCP.png?width=676&height=676"></div>
 
-- 🌱 I’m currently learning Javascript, Java, CSS, HTML e MYSQL;
+- 🌱 I’m currently learning Javascript, Java e MYSQL
 - 🤔 I’m looking for help with some codewars !
 - 💬 Ask me about anything about tech and cats
 - 😄 Pronouns: she/her
@@ -32,13 +32,13 @@
 <br>
 <div> 
   
-  <a href="https://instagram.com/stephaniemarcondess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
   <a href = "mailto:stephaniemarcondess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stephaniemarcondes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-   <a href="https://twitter.com/stezinhacullen" target="_blank"><img src="https://img.shields.io/twitter/follow/stezinhacullen?label=Me%20siga%20no%20twitter%2C%20l%C3%A1%20eu%20falo%20tudo%20sobre%20o%20mundo%20tech%20%3AD&style=social" target="_blank"></a>
+  
   
 </div>
 
